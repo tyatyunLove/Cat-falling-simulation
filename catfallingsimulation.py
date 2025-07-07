@@ -4,7 +4,7 @@ import time
 # === パラメータ ===
 
 z_start  = 9.0
-g        = 5.0
+g        = 5.0 #見やすくするために小さくしてます
 dt       = 0.001
 omega    = np.pi
 
