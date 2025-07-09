@@ -1,5 +1,5 @@
 # 猫ひねりシミュレーション（Cat Righting Reflex Simulation）
-![猫ひねり](bitter.jpg)
+![猫ひねり](downloads/bitter.jpg)
 これは、猫が自由落下中に体をひねって着地姿勢を整える「猫ひねり現象（cat righting reflex）」を、物理モデルに基づいてシミュレーションするPythonプログラムです。
 
 ## プロジェクト概要
